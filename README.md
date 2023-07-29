@@ -2,7 +2,7 @@
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
 
 ### Current Features
-- Server Monitoring and Auto-restart if the server goes down.
+- Server Monitoring and Auto-restart if the server exec goes down.
 
 ### Future Features
 I plan on adding more capabilities such as:
