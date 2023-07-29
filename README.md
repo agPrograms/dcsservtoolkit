@@ -1,6 +1,6 @@
 # dcsservtoolkit
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
-*There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `path.txt`
+**There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `path.txt`**
 
 ### Current Features
 - Server Monitoring and Auto-restart if the server exec goes down.
