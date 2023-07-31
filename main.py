@@ -115,7 +115,6 @@ class disc:
         dataUP = {
             "content": "⚠️ The DCS Server is down! DCS Server Toolkit is restarting it. ⚠️"
         }
-        r.post(webhook_url, json=dataUP)
         try:
             r.post(webhook_url, json=dataUP)
         except:
@@ -126,7 +125,6 @@ class disc:
         dataUP = {
             "content": "The DCS Server is up! 👅"
         }
-        r.post(webhook_url, json=dataUP)
         try:
             r.post(webhook_url, json=dataUP)
         except:
@@ -137,7 +135,6 @@ class disc:
         dataUP = {
             "content": "DCS Server Toolkit is **Operational** and running **Version v1.1.0**.. Getting your server started! 😍"
         }
-        r.post(webhook_url, json=dataUP)
         try:
             r.post(webhook_url, json=dataUP)
         except:
