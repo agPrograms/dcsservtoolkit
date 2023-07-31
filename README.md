@@ -1,14 +1,15 @@
 # dcsservtoolkit
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
 
-**There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `path.txt`**
+**There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `.env`**
 
 ### Current Features
 - Server Monitoring and Auto-restart if the server exec goes down.
+- Discord Webhook Usage, let your players & admins know whats going on with the server!
 
 ### Future Features
 I plan on adding more capabilities such as:
-- Discord Webhooks
+- Automatic Server Update & Repair (when needed)
 - Control via POST method
 - and more (as I think of it.)
 
