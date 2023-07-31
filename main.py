@@ -135,7 +135,7 @@ class disc:
     def sendToolUP():
         global dataUP
         dataUP = {
-            "content": "DCS Server Toolkit is **Operational** and running **Version v1.0.0**.. Getting your server started! 😍"
+            "content": "DCS Server Toolkit is **Operational** and running **Version v1.1.0**.. Getting your server started! 😍"
         }
         r.post(webhook_url, json=dataUP)
         try:
