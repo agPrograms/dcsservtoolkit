@@ -17,6 +17,7 @@ I plan on adding more capabilities such as:
 In order for this to work -- you will need the following dependencies:
 - Python 3.10.X (this was built on 3.10.8)
 - colorama
+- dearpygui
 - python-dotenv
 - requests
 
