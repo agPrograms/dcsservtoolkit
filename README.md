@@ -2,7 +2,7 @@
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
 **Note: This tool and its code is not endorsed or affliated with any personnel from Eagle Dynamics of DCS and is not commissioned by Eagle Dynamics!**
 
-**There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `.env`**
+**There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py`, `console1.py`, `menuz.py`, and `.env`**
 
 ### Current Features
 
