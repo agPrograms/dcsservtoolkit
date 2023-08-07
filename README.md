@@ -1,4 +1,4 @@
-# dcsservtoolkit
+# Make server administration a little easier.
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
 **Note: This tool and its code is not endorsed or affliated with any personnel from Eagle Dynamics of DCS and is not commissioned by Eagle Dynamics!**
 
