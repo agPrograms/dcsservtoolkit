@@ -1,11 +1,15 @@
 # dcsservtoolkit
 DCS Server Toolkit. Made for some server housekeeping on the box, not for in-game.
+**Note: This tool and its code is not endorsed or affliated with any personnel from Eagle Dynamics of DCS and is not commissioned by Eagle Dynamics!**
 
 **There is currently no stable release as the code is still being worked on. You may test it yourself by downloading: `main.py` and `.env`**
 
 ### Current Features
+
 - Server Monitoring and Auto-restart if the server exec goes down.
+- Update, Repair, and Close your server with a GUI!
 - Discord Webhook Usage, let your players & admins know whats going on with the server!
+- Easy installer for the dependencies (install.bat)
 
 ### Future Features
 I plan on adding more capabilities such as:
